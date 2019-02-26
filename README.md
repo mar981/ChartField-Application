@@ -1,7 +1,9 @@
-# Termination-Program
+# ChartField-Program
 
-- A Python application created for NYU Financial Systems Management meant to ensure cleared NYU users have
-access to the appropriate financial systems for university.
+Implemented from (01/2018 – Present)
 
-- Sole piece of software in the University that involves four of the major
-financial systems used by NYU such as; Peoplesoft, TouchNet, Payment Gateway and JEMs.
+- A Python application meant to flag any unwanted data entry in the
+University's in-house financial software.
+
+- Prevents any time-costly- inconveniences for users, such as not
+accessing budget reports, that could arise from erroneous data entry.
