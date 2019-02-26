@@ -1,6 +1,6 @@
 # ChartField-Application
 
-Implemented from (01/2018 – Present)
+Implemented by NYU Financial Systems Management from (01/2017 – Present)
 
 - A Python application meant to flag any unwanted data entry in the
 University's in-house financial software.
